@@ -1,4 +1,4 @@
-# YouTube Views, Likes, Subs, Comments Bot
+# YouTube Booster v3: YouTube Views, Likes, Subs, Comments Bot
 YouTube Booster is a view bot software for almost free automatic increasing of views, likes, retention rate, subscriptions, etc. for YouTube videos.
 More info: https://youtube-booster.space/en/
 # The solution consists of 3 scripts
