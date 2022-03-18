@@ -4,7 +4,7 @@ More info: https://youtube-booster.space/en/
 # The solution consists of 3 scripts
  - Script for account profiles generation
  - Script for profiles farming
- - View bot script
+ - YouTube bot script (main software)
 # Features
  - Emulation of views for videos and lives (from Google accounts and unauthorized generated profiles)
  - Likes
